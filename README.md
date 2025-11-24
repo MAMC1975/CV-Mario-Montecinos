@@ -6,7 +6,7 @@
 
 ## 📋 Resumen Profesional
 
-Doctor en Ciencias con especialidad en Sistemática y Ecología de la Universidad Austral de Chile. Profesional con más de 20 años de experiencia en investigación pesquera, conservación marina, gestión de recursos naturales y desarrollo productivo. Expertise en evaluación de poblaciones de peces, estudios oceanográficos, y gestión sostenible de comunidades pesqueras artesanales.
+Candidato a Doctor (Dr. c) en Ciencias con especialidad en Sistemática y Ecología de la Universidad Austral de Chile. Profesional con más de 20 años de experiencia en investigación pesquera, conservación marina, gestión de recursos naturales y desarrollo productivo. Expertise en evaluación de poblaciones de peces, estudios oceanográficos, y gestión sostenible de comunidades pesqueras artesanales.
 
 ---
 
