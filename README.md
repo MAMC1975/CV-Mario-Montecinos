@@ -23,7 +23,7 @@ Candidato a Doctor (Dr. c) en Ciencias con especialidad en Sistemática y Ecolog
 ## 🎓 Formación Académica
 
 ### Postgrado
-- **Doctor en Ciencias**
+- **Candidato a Doctor (Dr. c) en Ciencias**
   - Mención: Sistemática y Ecología
   - Universidad: Universidad Austral de Chile
   - Duración: 5 años
