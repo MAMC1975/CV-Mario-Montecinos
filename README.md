@@ -1,148 +1,174 @@
-# Mario Arnoldo Montecinos Carvajal
+# Curriculum Vitae - Mario Arnoldo Montecinos Carvajal
 
-**Investigador | Científico | Especialista en Pesquería y Conservación Marina**
+## 👤 Antecedentes Personales
 
----
-
-## 📋 Resumen Profesional
-
-Candidato a Doctor (Dr. c) en Ciencias con especialidad en Sistemática y Ecología de la Universidad Austral de Chile. Profesional con más de 20 años de experiencia en investigación pesquera, conservación marina, gestión de recursos naturales y desarrollo productivo. Expertise en evaluación de poblaciones de peces, estudios oceanográficos, y gestión sostenible de comunidades pesqueras artesanales.
-
----
-
-## 👤 Datos Personales
-
-- **Nombre Completo:** Mario Arnoldo Montecinos Carvajal
+- **Nombre:** Mario Arnoldo Montecinos Carvajal
 - **RUT:** 12.747.944-5
-- **Celular:** +56 9 46419615
+- **Teléfono:** +56 9 46419615
 - **Email:** mariomontecinosgmail.com
-- **Ubicación:** Puerto Saavedra, Región de La Araucanía, Chile
-
----
+- **Ubicación:** Camino a Boca Budi s/n, Playa Maule, Puerto Saavedra, Región de La Araucanía, Chile
 
 ## 🎓 Formación Académica
 
 ### Postgrado
-- **Candidato a Doctor (Dr. c) en Ciencias**
-  - Mención: Sistemática y Ecología
-  - Universidad: Universidad Austral de Chile
+- **Dr. c en Ciencias** - Mención Sistemática y Ecología
+  - Universidad Austral de Chile
   - Duración: 5 años
 
 ### Educación Superior
 - **Licenciatura en Biología Marina**
-  - Universidad: Universidad Austral de Chile
+  - Universidad Austral de Chile
   - Duración: 7 años
 
----
+## 💼 Experiencia Laboral
 
-## 💼 Experiencia Profesional
+### ECOLMAR SPA (2015 - Presente)
+**Investigador y Representante Legal**
 
-### Investigador y Representante Legal
-**ECOLMAR SPA** | 2015 - Presente
-- Preparación y desarrollo de propuestas de Investigación, Capacitación, Fomento Productivo y Asesoras
-- Proyectos destacados:
-  - Vigilancia Ambiental Conservación Calado Vía de Navegación Río Lebu (2024)
-  - Capacitación en Gastronomía - Comité Newen Lafkenche (BIP N° 40037655-0, 2024)
-  - Plan de Administración de Caleta el Huilque
-  - Generación de modelos de gestión para adaptación al cambio climático en caletas artesanales
+Funciones principales:
+- Preparar propuestas y desarrollar proyectos de Investigación, Capacitación, Fomento Productivo y Asesorías
+- Gestión de proyectos interdisciplinarios en recursos marinos y sostenibilidad
 
-### Evaluador de Proyectos
-**EQA CERTIFICADOS** | 2019 - Presente
-- Evaluación de Propuestas y Proyectos
-- Experiencia en:
-  - Proyectos Bienes Públicos CORFO
-  - Impacto de cambio climático en ecosistemas costeros
-  - Gestión ambiental y resiliencia de comunidades pesqueras
+Proyectos destacados (2023-2024):
+- Curso de Capacitación en Gastronomía - COMITÉ NEWEN LAFKENCHE Puerto Saavedra (BIP 40037655-0)
+- Programa de Vigilancia Ambiental - Conservación Calado Vía de Navegación Río Lebu, Provincia de Arauco
+- Seguimiento del Plan de Administración de Caleta el Huilque
+- Capacitación y Asistencia Técnica para la Implementación del Programa de Desarrollo Económico y Productivo para la Pesca Artesanal, Región de La Araucanía
+- Asesoría y Gestión Plan Comunicacional - Socialización del track del cable de fibra óptica, Proyecto Prat (GTD Telecomunicaciones)
+- Remodelación y Ampliación de Cocina, Restaurant El Cautén, STI El Maule, Puerto Saavedra
 
-### Profesional Araucanía
-**INDESPA** | 2019 - 2022
-- Extensionista Pesquero
-- Fomento productivo en terreno para Pesca Artesanal y Acuicultura de pequeña escala
-- Desarrollo y ejecución del Programa de Transferencia Desarrollo Productivo para la Pesca Artesanal de la Comuna de Saavedra (BIP N° 40011508-0)
+Proyectos anteriores:
+- Planificación Estratégica para STI La Caleta (INDESPA, 2022)
+- Comercializadora de Productos del Mar STI San Pedro (INDESPA, 2022)
+- Criterios y Umbrales de Clasificación de Especies Marinas en Estados de Conservación en el GEMCH (UNOPS, 2015)
+- Línea Base de Características Genómicas, Toxicológicas y Ciclos Temporales de Marea Roja (CORFO, 2017 - Código 16BPE-62321)
+- Estudio Etapa I Línea Base Oceanográfica en Estuarios de la Región de Los Ríos (FIC-CONICYT, 1571-20-LP17)
 
-### Investigador Asociado
-**Fundación Ictiológica** | 2016 - 2018
-- Diseño e implementación de propuestas técnicas
-- Asistencia Técnica para estudios biológico-pesqueros
-- Programas de fortalecimiento productivo para organizaciones de boteros
+### INDESPA - Araucanía (2019-2022)
+**Profesional Araucanía - Extensionista Pesquero**
 
-### Investigador
-**Litoral Austral Ltda.** | 2013 - 2015
-- Cuantificación poblacional del lobo marino común (Otaria flavescens)
-- Investigación en el litoral de XV, I y II Regiones
+Funciones principales:
+- Fomento productivo en terreno para la Pesca Artesanal y Acuicultura de pequeña escala
+- Transferencia de desarrollo productivo
 
-### Investigador
-**Instituto de Fomento Pesquero (IFOP)** | 2002 - 2005
+Logros:
+- Desarrollo y ejecución del Programa Transferencia Desarrollo Productivo para la Pesca Artesanal de la Comuna de Saavedra (BIP 40011508-0)
+- Programa de Desarrollo Productivo para la Pesca Artesanal y Acuicultura de Pequeña Escala, Región de La Araucanía (2018-2020, IDI 40002483)
+- Diseño programa Desarrollo económico y productivo para la pesca artesanal Región de La Araucanía 2022-2024 (ID 40030120)
+
+### EQA CERTIFICADOS (2019 - Presente)
+**Evaluador de Proyectos**
+
+Funciones principales:
+- Evaluación de propuestas y proyectos
+
+Proyectos evaluados:
+- Bienes Públicos CORFO: Impacto de la disminución de caudales de ríos en el ecosistema costero debido al Cambio Climático
+- Bienes Públicos CORFO: Generación de un modelo de gestión para la adaptación al cambio climático y el fortalecimiento de la resiliencia de caletas artesanales bajo la Ley de Caletas
+- Crea y Valida IDi Empresarial CORFO: Material PEPP de alto desempeño a partir de cuerdas y redes recicladas desde la Patagonia chilena
+
+### Fundación Ictiológica (2016-2018)
+**Investigador Asociado**
+
+Proyectos destacados:
+- Asistencia Técnica para la Implementación de Estudio Biológico Pesquero de la Sierra (*Thyrsites atun*), Región de Los Ríos (ID 5186-27-LE16)
+- Jefe Proyecto: Programa Fortalecimiento Productivo para Organizaciones de Boteros, Región de Los Ríos (FAP ID 4728-78-LP17, 2017)
+
+### Instituto de Fomento Pesquero - IFOP (2002-2005)
+**Investigador**
+
+Funciones principales:
 - Coordinación y liderazgo de investigación pesquera
 - Recomendaciones de niveles de extracción y acciones de manejo
-- Desarrollo e implementación de modelos de evaluación de stock para:
+
+Logros:
+- Desarrollo e implementación de modelos de evaluación de stock estructurados por talla y edad:
   - Congrio Dorado
   - Merluza del Sur
   - Merluza Austral
   - Orange Roughy
-- Implementación de Talleres de discusión con actores del manejo pesquero
+- Implementación de Talleres de discusión para creación de Comités de Manejo de Orange Roughy
 
-### Sectorialista Bentónico
-**Subsecretaría de Pesca y Acuicultura** | 1998 - 2002
-- Asesoría al Subsecretario en ordenamiento y manejo de Pesquerías Bentónicas
-- Desarrollo y administración de Áreas de Manejo y Explotación de Recursos Bentnicos (AMERB)
-- Protocolos de muestreo de recursos bentnicos
-- Medidas de administración para Pulpo, Juliana y otros recursos
+### Subsecretaría de Pesca y Acuicultura (1998-2002)
+**Sectorialista Bentónico**
 
----
+Funciones principales:
+- Asesoría al Subsecretario en temas de ordenamiento y manejo de Pesquerías Bentónicas
 
-## 🛠️ Competencias Técnicas
+Logros:
+- Desarrollo, puesta en marcha y afinación del sistema de administración de Áreas de Manejo y Explotación de Recursos Bentnicos (AMERB)
+- Desarrollo de protocolos de muestreos de recursos bentnicos
+- Establecimiento de medidas de administración para recursos Bentnicos (Pulpo, Juliana)
 
-### Software Especializado
+### Otras Organizaciones (2013-2018)
+- **Litoral Austral Ltda** (2013-2015) - Investigador
+  - Cuantificación poblacional del lobo marino común (*Otaria flavescens*) en litoral de XV, I y II Regiones (Proyecto FIP, 2012)
 
+- **Gesión Futuro Ltda** (2013-2015) - Investigador
+  - Evaluación Abundancia Poblacional de Huepo y Navajuela en Bahía de Corral mediante Métodos Geoestadísticos
+
+- **Dirección Zonal de Pesca y Acuicultura** - La Araucanía y Los Ríos FFPA (2015-2016) - Profesional Apoyo Externo
+  - Evaluación de 50 proyectos AMERB
+  - Elaboración de propuesta de Plan de Manejo de Bahía de Corral
+  - Apoyo en Programa de Mejoramiento de Competitividad del Sector Pesquero Artesanal
+
+## 💻 Competencias Técnicas
+
+### Sistemas de Información Geográfica (SIG)
 | Software | Nivel |
 |----------|-------|
-| QGIS | Avanzado |
 | IDRISIS | Avanzado |
+| QGIS | Avanzado |
 | ArcView | Intermedio |
-| Matlab | Intermedio |
+
+### Análisis de Datos
+| Software | Nivel |
+|----------|-------|
 | R-Cran | Avanzado |
 | Python | Intermedio |
+| MATLAB | Intermedio |
+| Octave | Intermedio |
 | SQL | Intermedio |
+| S-Plus | Intermedio |
 | Statistica | Avanzado |
 
-### Office y Productividad
-- Microsoft Word: Avanzado
-- Microsoft Excel: Avanzado
-- Microsoft PowerPoint: Avanzado
-- Microsoft Access: Avanzado
-- Visual Basic: Avanzado
+### Office
+| Software | Nivel |
+|----------|-------|
+| Word | Avanzado |
+| Excel | Avanzado |
+| PowerPoint | Avanzado |
+| Access | Avanzado |
+| Visual Basic | Avanzado |
 
----
+## 🎓 Formación Continua
 
-## 📚 Formación Complementaria
-
-| Curso/Seminario | Duración | Institución |
-|-----------------|----------|-------------|
-| Fundamentos del Análisis de Datos | 3 meses | Edutecno - Talento Digital SENCE |
-| Evaluación de la eficacia de la ordenación pesquera conjunta | 20 horas | FAO |
-| Inducción General a la Administración del Estado | 1 mes | Contraloría General de la República |
+| Curso | Duración | Institución |
+|-------|----------|-------------|
+| Biodiversidad y Producción Sostenible - Conservación y Enfoque Territorial | 60 hrs | FAO |
+| Planificación Geoespacial en Proyectos de Desarrollo Territorial | 20 hrs | FAO |
+| Fundamento del Análisis de Datos | 3 meses | Edutecno - Talento Digital SENCE |
+| Evaluación de la Eficacia de la Ordenación Pesquera Conjunta | 20 hrs | FAO |
+| Indución General a la Administración del Estado | 1 mes | Contraloría General de la República |
 | Generación IA | 1 semana | Microsoft - EIDOS |
-| Contemporary Evolution - Humans as Agents of Selection | 1 semana | Nordic Marine Academy |
-| SIG I - Principios y Conceptos | 1 mes | Universidad del Mar |
-| SIG II - Uso de Idrisi Kilimanjaro | 1 mes | Universidad del Mar |
-| Evaluación de Poblaciones de Peces FISAT II | 1 semana | CPPS FAO IMARPE |
+| Contemporary Evolution: Humans as Agents of Selection | 1 semana | Nordic Marine Academy |
+| SIG I: Principios y Conceptos | 1 mes | Universidad del Mar |
+| SIG II: Uso de IDRISIS Kilimanjaro | 1 mes | Universidad del Mar |
+| CPPSFAOIMARPE: Evaluación de Poblaciones de Peces FISAT II | 1 semana | CPPS-FAO-IMARPE |
 | Enfoque Ecosistémico Aplicado a la Ecología Pesquera | 1 semana | Universidad Católica de Valparaíso |
 | Dinámica Poblacional y Manejo de Recursos Naturales | 1 semana | Universidad de Concepción |
 | Access Intermedio | 1 mes | Infoland |
 
----
+## 🌐 Idiomas
 
-## 🌍 Idiomas
-
-- **Español:** Lengua Materna
-- **Inglés:** Nivel Intermedio (Examen TOEIC)
-
----
+| Idioma | Nivel |
+|--------|-------|
+| Español | Lengua Materna |
+| Inglés | Intermedio (Certificación TOIC) |
 
 ## 📞 Referencias Profesionales
 
-### Prof. Cristian Canales Ramírez
+### Cristian Canales Ramírez
 - **Cargo:** Profesor Adjunto, Pontificia Universidad Católica de Valparaíso
 - **Email:** cristian.canales.r@pucv.cl
 - **Teléfono:** +56 32 2274256
@@ -152,21 +178,4 @@ Candidato a Doctor (Dr. c) en Ciencias con especialidad en Sistemática y Ecolog
 - **Email:** jrivera@subpesca.cl
 - **Teléfono:** +56 32 2502821
 
----
-
-## 🎯 Áreas de Especialización
-
-- Evaluación y Manejo de Poblaciones de Peces
-- Investigación Pesquera y Oceanografía
-- Conservación Marina y Biodiversidad
-- Gestión Sostenible de Recursos Naturales
-- Sistemas de Información Geográfica (SIG)
-- Análisis de Datos Ambientales
-- Fomento y Desarrollo Productivo Pesquero Artesanal
-- Cambio Climático y Resiliencia Comunitaria
-
----
-
-**Última actualización:** Noviembre 2025
-
-*Este CV está disponible en formato editable en GitHub. Para más información, contacte directamente.*
+# Ultima Actualizacion Diciembre 2025
