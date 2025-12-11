@@ -1,190 +1,78 @@
-# Mario Arnoldo Montecinos Carvajal
-
-**Researcher | Scientist | Specialist in Fisheries and Marine Conservation**
-
----
-
-## 📋 Professional Summary
-
-PhD Candidate (Dr. c) in Sciences with specialization in Systematics and Ecology from Austral University of Chile. Professional with over 20 years of experience in fishery research, marine conservation, natural resources management, and productive development. Expertise in fish population assessment, oceanographic studies, and sustainable management of artisanal fishing communities.
-
----
+# Curriculum Vitae - Mario Arnoldo Montecinos Carvajal
 
 ## 👤 Personal Information
 
-- **Full Name:** Mario Arnoldo Montecinos Carvajal
-- **National ID (RUT):** 12.747.944-5
-- **Mobile:** +56 9 46419615
+- **Name:** Mario Arnoldo Montecinos Carvajal
+- **RUT:** 12.747.944-5
+- **Phone:** +56 9 46419615
 - **Email:** mariomontecinosgmail.com
-- **Location:** Puerto Saavedra, Araucanía Region, Chile
+- **Location:** Camino a Boca Budi s/n, Playa Maule, Puerto Saavedra, La Araucanía Region, Chile
 
----
+## 🎓 Academic Education
 
-## 🎓 Academic Background
-
-### Postgraduate
-
-- **PhD Candidate in Sciences (Dr. c)**
-  - Specialization: Systematics and Ecology
-  - University: Austral University of Chile
+### Postgraduate Degree
+- **Ph.D. in Sciences** - Specialization in Systematics and Ecology
+  - Universidad Austral de Chile
   - Duration: 5 years
 
-### Higher Education
-
-- **Bachelor of Marine Biology**
-  - University: Austral University of Chile
+### Undergraduate Degree
+- **Bachelor of Science in Marine Biology**
+  - Universidad Austral de Chile
   - Duration: 7 years
-
----
 
 ## 💼 Professional Experience
 
-### Researcher and Legal Representative
+### ECOLMAR SPA (2015 - Present)
+**Researcher and Legal Representative**
 
-**ECOLMAR SPA** | 2015 - Present
+Main Functions:
+- Prepare proposals and develop research projects, training, productive development, and consulting activities
+- Management of interdisciplinary projects in marine resources and sustainability
 
-- Development and preparation of research, training, productive development, and consulting proposals
-- Highlighted Projects:
-  - Environmental Surveillance and Conservation of Navigation Channel Draft Río Lebu (2024)
-  - Gastronomy Training - Newen Lafkenche Committee (BIP No. 40037655-0, 2024)
-  - Management Plan for Caleta el Huilque
-  - Development of management models for climate change adaptation in artisanal fishing coves
+Outstanding Projects (2023-2024):
+- Gastronomy Training Course - COMITÉ NEWEN LAFKENCHE Puerto Saavedra (BIP 40037655-0)
+- Environmental Monitoring Program - Navigation Channel Conservation Río Lebu, Arauco Province
+- Follow-up of the Management Plan for Caleta el Huilque
+- Training and Technical Assistance for Implementation of Economic and Productive Development Program for Artisanal Fishing, La Araucanía Region
+- Consulting and Management of Communication Plan - Socialization of Fiber Optic Cable Track, Prat Project (GTD Telecomunicaciones)
+- Remodeling and Extension of Kitchen, El Cautén Restaurant, STI El Maule, Puerto Saavedra
 
-### Project Evaluator
+Previous Projects:
+- Strategic Planning for STI La Caleta (INDESPA, 2022)
+- Commercialization of Sea Products STI San Pedro (INDESPA, 2022)
+- Classification Criteria and Thresholds of Marine Species in Conservation States in GEMCH (UNOPS, 2015)
+- Baseline of Genomic Characteristics, Toxicological and Temporal Cycles of Red Tide (CORFO, 2017 - Code 16BPE-62321)
+- Stage I Baseline Oceanographic Study in Estuaries of Los Ríos Region (FIC-CONICYT, 1571-20-LP17)
 
-**EQA CERTIFICADOS** | 2019 - Present
+### INDESPA - Araucanía (2019-2022)
+**Professional Araucanía - Fisheries Extension Agent**
 
-- Evaluation of proposals and projects
-- Experience in:
-  - CORFO Public Goods Projects
-  - Climate change impact on coastal ecosystems
-  - Environmental management and resilience of fishing communities
+Main Functions:
+- Productive development in the field for Artisanal Fishing and Small-Scale Aquaculture
+- Transfer of productive development
 
-### Professional - Araucanía
+Achievements:
+- Development and execution of the Transfer Program for Productive Development of Artisanal Fishing in Saavedra Municipality (BIP 40011508-0)
+- Economic and Productive Development Program for Artisanal Fishing and Small-Scale Aquaculture, La Araucanía Region (2018-2020, IDI 40002483)
+- Design of Economic and Productive Development Program for Artisanal Fishing La Araucanía Region 2022-2024 (ID 40030120)
 
-**INDESPA** | 2019 - 2022
+### EQA CERTIFICADOS (2019 - Present)
+**Project Evaluator**
 
-- Fisheries Extension Professional
-- Productive promotion in the field for Artisanal Fishing and Small-Scale Aquaculture
-- Development and execution of the Productive Development Transfer Program for Artisanal Fisheries of Saavedra Municipality (BIP No. 40011508-0)
+Main Functions:
+- Evaluation of project proposals
 
-### Associate Researcher
+Evaluated Projects:
+- Public Goods CORFO: Impact of River Flow Reduction on Coastal Ecosystem due to Climate Change
+- Public Goods CORFO: Development of a Management Model for Climate Change Adaptation and Resilience Strengthening of Artisanal Coves under Cove Law
+- Create and Validate Business IDi CORFO: High-Performance PEPP Material from Recycled Ropes and Nets from Chilean Patagonia
 
-**Ichthyology Foundation** | 2016 - 2018
+### Fundación Ictiológica (2016-2018)
+**Associate Researcher**
 
-- Design and implementation of technical proposals
-- Technical Assistance for biological-fishery studies
-- Productive strengthening programs for boatmen organizations
-
-### Researcher
-
-**Litoral Austral Ltda.** | 2013 - 2015
-
-- Population quantification of South American sea lion (Otaria flavescens)
-- Research on the coast of XV, I and II Regions
-
-### Researcher
-
-**Fisheries Promotion Institute (IFOP)** | 2002 - 2005
-
-- Coordination and leadership of fishery research
-- Recommendations on extraction levels and management actions
-- Development and implementation of stock assessment models for:
-  - Golden Conger (Congrio Dorado)
-  - Southern Hake (Merluza del Sur)
-  - Austral Hake (Merluza Austral)
-  - Orange Roughy
-- Implementation of discussion workshops with fishery management stakeholders
-
-### Benthic Specialist
-
-**Undersecretariat of Fisheries and Aquaculture** | 1998 - 2002
-
-- Advisory to the Undersecretary on benthic fishery management and organization
-- Development and administration of Management and Exploitation Areas of Benthic Resources (AMERB)
-- Sampling protocols for benthic resources
-- Management measures for Octopus, Razor Clam, and other resources
-
----
-
-## 🛠️ Technical Competencies
-
-### Specialized Software
-
-| Software | Level |
-|----------|-------|
-| QGIS | Advanced |
-| IDRISIS | Advanced |
-| ArcView | Intermediate |
-| Matlab | Intermediate |
-| R-Cran | Advanced |
-| Python | Intermediate |
-| SQL | Intermediate |
-| Statistica | Advanced |
-
-### Office and Productivity
-
-- Microsoft Word: Advanced
-- Microsoft Excel: Advanced
-- Microsoft PowerPoint: Advanced
-- Microsoft Access: Advanced
-- Visual Basic: Advanced
-
----
-
-## 📚 Additional Training
-
-| Course/Seminar | Duration | Institution |
-|---|---|---|
-| Fundamentals of Data Analysis | 3 months | Edutecno - Talento Digital SENCE |
-| Evaluation of Joint Fisheries Management Effectiveness | 20 hours | FAO |
-| General Induction to State Administration | 1 month | Comptroller General of the Republic |
-| AI Generation | 1 week | Microsoft - EIDOS |
-| Contemporary Evolution - Humans as Agents of Selection | 1 week | Nordic Marine Academy |
-| GIS I - Principles and Concepts | 1 month | Universidad del Mar |
-| GIS II - Use of Idrisi Kilimanjaro | 1 month | Universidad del Mar |
-| Evaluation of Fish Populations FISAT II | 1 week | CPPS FAO IMARPE |
-| Ecosystem Approach Applied to Fishery Ecology | 1 week | Pontifical Catholic University of Valparaíso |
-| Population Dynamics and Natural Resources Management | 1 week | University of Concepción |
-| Intermediate Access | 1 month | Infoland |
-
----
-
-## 🌍 Languages
-
-- **Spanish:** Native Language
-- **English:** Intermediate Level (TOEIC Exam)
-
----
-
-## 📞 Professional References
-
-### Prof. Cristian Canales Ramírez
-
-- **Position:** Associate Professor, Pontifical Catholic University of Valparaíso
-- **Email:** cristian.canales.r@pucv.cl
-- **Phone:** +56 32 2274256
-
-### Javier Rivera Vergara
-
-- **Position:** Cabinet Chief, Undersecretariat of Fisheries and Aquaculture
-- **Email:** jrivera@subpesca.cl
-- **Phone:** +56 32 2502821
-
----
-
-## 🎯 Areas of Specialization
-
-- Fish Population Assessment and Management
-- Fishery Research and Oceanography
-- Marine Conservation and Biodiversity
-- Sustainable Natural Resources Management
-- Geographic Information Systems (GIS)
-- Environmental Data Analysis
-- Promotion and Productive Development for Artisanal Fishing
-- Climate Change and Community Resilience
-
----
+Outstanding Projects:
+- Technical Assistance for Implementation of Biological Fisheries Study of Kingklip (*Thyrsites atun*), Los Ríos Region (ID 5186-27-LE16)
+- Project Manager: Productive Strengthening Program for Boatmen Organizations, Los Ríos Region (FAP ID
 
 **Last Update:** December 2025
 
